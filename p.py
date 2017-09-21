@@ -1,6 +1,5 @@
 import socket
 import struct
-import textwrap
 import binascii
 
 def Addr(hexa,st):
